@@ -10,7 +10,7 @@
 
 <!-------------------------------------------------first part-------------------------------------------------------------------------------------->
 
-<p><img align="left" src="https://dragon.img2go.com/pt/download-file/4f7a25f2-1a94-443a-95b5-0d5ca3c0ee8e/9843fc9b-18ad-4520-b0b0-bb609d715bf2" alt="matheuzzs" width ="100%" height = "auto"/></p>
+<p><img align="left" src="https://dragon.img2go.com/pt/download-file/4f2e2b52-a185-4603-85f6-cbbb84eeda18/10570053-dcbc-4a9d-b063-65b5d0dddf69" alt="matheuzzs" width ="100%" height = "auto"/></p>
 <h1 align = "center" >Hi 👋, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Matheus Dias </h1>
 <h3 align = "center" > 💻 Junior Data Sicentist | Python Developer | SQL, Python, GIT |🌱 Data Scientist Student  </h3>
 <h4 align = "center" >
@@ -32,7 +32,8 @@
  <summary> :man_technologist: About Me</summary> 
  
 
-<p align="center"><img src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="110" height = "110" style="border-radius: 5px 30px 10px 50px;" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
  
 - 🏳️ I live in Brasilia, Brazil.
 - 🗣️ I can speak English and Portuguese.
