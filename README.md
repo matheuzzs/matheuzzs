@@ -10,7 +10,7 @@
 
 <!-------------------------------------------------first part-------------------------------------------------------------------------------------->
 
-<p><img align="left" src="https://dragon.img2go.com/pt/download-file/4f2e2b52-a185-4603-85f6-cbbb84eeda18/10570053-dcbc-4a9d-b063-65b5d0dddf69" alt="matheuzzs" width ="100%" height = "auto"/></p>
+<p><img align="left" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" alt="matheuzzs" width ="100%" height = "auto"/></p>
 <h1 align = "center" >Hi 👋, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Matheus Dias </h1>
 <h3 align = "center" > 💻 Junior Data Sicentist | Python Developer | SQL, Python, GIT |🌱 Data Scientist Student  </h3>
 <h4 align = "center" >
