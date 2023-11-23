@@ -11,7 +11,7 @@
 <!-------------------------------------------------first part-------------------------------------------------------------------------------------->
 
 <p><img align="left" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" alt="matheuzzs" width ="100%" height = "auto"/></p>
-<h1 align = "center" >Hi 👋, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Matheus Dias </h1>
+<h1 align = "center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">, I'm Matheus Dias </h1>
 <h3 align = "center" > 💻 Junior Data Sicentist | Python Developer | SQL, Python, GIT |🌱 Data Scientist Student  </h3>
 <h4 align = "center" >
  <!-- download cv button -->
